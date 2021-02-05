@@ -38,7 +38,7 @@ const Task = ({ task }) => {
     const formatDate = (date) => {
         const d = new Date(date);
         // https://www.w3schools.com/jsref/jsref_obj_date.asp
-        return `${d.getDay()} / ${d.getMonth()} / ${d.getFullYear()}`;
+        return `${d.getDay()} / ${d.getMonth() + 1} / ${d.getFullYear()}`;
     }
 
     return (
