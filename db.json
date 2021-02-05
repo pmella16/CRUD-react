@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "description": "hola hola 23r",
-      "valid": "0",
+      "description": "Ir al super",
+      "valid": "1",
       "date": 1612546636670,
-      "id": 2
+      "id": 1
     }
   ]
 }
