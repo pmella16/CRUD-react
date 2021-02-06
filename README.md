@@ -19,7 +19,7 @@ para iniciar el proyecto
 
 npm start
 
-para inicar las pruebas
+para iniciar las pruebas
 
 npm test
 
